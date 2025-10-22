@@ -55,7 +55,7 @@ Below are screenshots of the key pages of the application:
    
 
 6. **Movements**
-   ![Movements](https://github.com/yamini-17/project-Inventory/blob/main/Screenshot%202025-10-22%20010240.png?raw=true)
+   ![Movements](https://raw.githubusercontent.com/yamini-17/project-Inventory/7d1090d7ac7bd6912c7e97a9d32bc3b82e521424/Screenshot%202025-10-22%20124042.png)
    The Movements page records product transfers between different locations, showing quantities and routes.
    It enables users to manage stock flow efficiently and maintain accurate inventory tracking.
    
